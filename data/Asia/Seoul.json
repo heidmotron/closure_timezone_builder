@@ -1,0 +1,18 @@
+{
+  "id": "Asia/Seoul", 
+  "names": [
+    "GMT+9", 
+    "Korean Standard Time"
+  ], 
+  "std_offset": 540, 
+  "transitions": [
+    152103, 
+    60, 
+    155798, 
+    0, 
+    160839, 
+    60, 
+    164534, 
+    0
+  ]
+}

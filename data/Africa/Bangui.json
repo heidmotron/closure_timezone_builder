@@ -1,0 +1,9 @@
+{
+  "id": "Africa/Bangui", 
+  "names": [
+    "GMT+1", 
+    "West Africa Standard Time"
+  ], 
+  "std_offset": 60, 
+  "transitions": []
+}

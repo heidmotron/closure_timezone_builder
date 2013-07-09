@@ -1,0 +1,9 @@
+{
+  "id": "Africa/Johannesburg", 
+  "names": [
+    "GMT+2", 
+    "South Africa Standard Time"
+  ], 
+  "std_offset": 120, 
+  "transitions": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Saigon", 
+  "names": [
+    "GMT+7", 
+    "Indochina Time"
+  ], 
+  "std_offset": 420, 
+  "transitions": []
+}

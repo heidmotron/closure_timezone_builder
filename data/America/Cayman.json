@@ -1,0 +1,9 @@
+{
+  "id": "America/Cayman", 
+  "names": [
+    "EST", 
+    "Eastern Standard Time"
+  ], 
+  "std_offset": -300, 
+  "transitions": []
+}

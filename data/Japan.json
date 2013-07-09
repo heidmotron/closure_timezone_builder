@@ -1,0 +1,9 @@
+{
+  "id": "Japan", 
+  "names": [
+    "GMT+9", 
+    "Japan Standard Time"
+  ], 
+  "std_offset": 540, 
+  "transitions": []
+}

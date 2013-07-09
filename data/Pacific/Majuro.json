@@ -1,0 +1,9 @@
+{
+  "id": "Pacific/Majuro", 
+  "names": [
+    "GMT+12", 
+    "Marshall Islands Time"
+  ], 
+  "std_offset": 720, 
+  "transitions": []
+}

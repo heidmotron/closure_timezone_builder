@@ -1,0 +1,9 @@
+{
+  "id": "America/St_Vincent", 
+  "names": [
+    "AST", 
+    "Atlantic Standard Time"
+  ], 
+  "std_offset": -240, 
+  "transitions": []
+}

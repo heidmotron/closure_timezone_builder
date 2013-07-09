@@ -1,0 +1,14 @@
+{
+  "id": "America/Guyana", 
+  "names": [
+    "GMT-4", 
+    "Guyana Time"
+  ], 
+  "std_offset": -240, 
+  "transitions": [
+    48891, 
+    0, 
+    184083, 
+    0
+  ]
+}

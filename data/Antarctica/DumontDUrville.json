@@ -1,0 +1,9 @@
+{
+  "id": "Antarctica/DumontDUrville", 
+  "names": [
+    "GMT+10", 
+    "Dumont-d\u2019Urville Time"
+  ], 
+  "std_offset": 600, 
+  "transitions": []
+}

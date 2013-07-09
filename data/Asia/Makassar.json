@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Makassar", 
+  "names": [
+    "GMT+8", 
+    "Central Indonesia Time"
+  ], 
+  "std_offset": 480, 
+  "transitions": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Pacific/Enderbury", 
+  "names": [
+    "GMT+13", 
+    "Phoenix Islands Time"
+  ], 
+  "std_offset": 780, 
+  "transitions": [
+    85452, 
+    0, 
+    219155, 
+    0
+  ]
+}

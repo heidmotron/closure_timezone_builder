@@ -1,0 +1,14 @@
+{
+  "id": "America/Bogota", 
+  "names": [
+    "GMT-5", 
+    "Colombia Standard Time"
+  ], 
+  "std_offset": -300, 
+  "transitions": [
+    195797, 
+    60, 
+    203860, 
+    0
+  ]
+}

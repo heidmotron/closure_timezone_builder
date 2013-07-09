@@ -1,0 +1,18 @@
+{
+  "id": "America/El_Salvador", 
+  "names": [
+    "CST", 
+    "Central Standard Time"
+  ], 
+  "std_offset": -360, 
+  "transitions": [
+    151950, 
+    60, 
+    155477, 
+    0, 
+    160686, 
+    60, 
+    164213, 
+    0
+  ]
+}

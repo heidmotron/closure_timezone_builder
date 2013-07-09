@@ -1,0 +1,22 @@
+{
+  "id": "Pacific/Noumea", 
+  "names": [
+    "GMT+11", 
+    "New Caledonia Standard Time"
+  ], 
+  "std_offset": 660, 
+  "transitions": [
+    69445, 
+    60, 
+    71484, 
+    0, 
+    78181, 
+    60, 
+    80244, 
+    0, 
+    235935, 
+    60, 
+    238119, 
+    0
+  ]
+}

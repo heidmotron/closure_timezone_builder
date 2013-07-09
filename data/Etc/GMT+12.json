@@ -1,0 +1,9 @@
+{
+  "id": "Etc/GMT+12", 
+  "names": [
+    "GMT-12", 
+    "GMT-12:00"
+  ], 
+  "std_offset": -720, 
+  "transitions": []
+}

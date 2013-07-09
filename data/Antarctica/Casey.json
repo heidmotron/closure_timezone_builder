@@ -1,0 +1,18 @@
+{
+  "id": "Antarctica/Casey", 
+  "names": [
+    "GMT+8", 
+    "Australian Western Standard Time"
+  ], 
+  "std_offset": 480, 
+  "transitions": [
+    348834, 
+    0, 
+    352143, 
+    0, 
+    366594, 
+    0, 
+    369401, 
+    0
+  ]
+}

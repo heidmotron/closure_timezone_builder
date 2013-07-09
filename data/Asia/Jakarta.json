@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Jakarta", 
+  "names": [
+    "GMT+7", 
+    "Western Indonesia Time"
+  ], 
+  "std_offset": 420, 
+  "transitions": []
+}

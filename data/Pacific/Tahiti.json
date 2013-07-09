@@ -1,0 +1,9 @@
+{
+  "id": "Pacific/Tahiti", 
+  "names": [
+    "GMT-10", 
+    "Tahiti Time"
+  ], 
+  "std_offset": -600, 
+  "transitions": []
+}

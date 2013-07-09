@@ -1,0 +1,24 @@
+{
+  "id": "Asia/Karachi", 
+  "names": [
+    "GMT+5", 
+    "Pakistan Standard Time"
+  ], 
+  "std_offset": 300, 
+  "transitions": [
+    10771, 
+    0, 
+    282811, 
+    60, 
+    287178, 
+    0, 
+    336739, 
+    60, 
+    340410, 
+    0, 
+    344371, 
+    60, 
+    349170, 
+    0
+  ]
+}

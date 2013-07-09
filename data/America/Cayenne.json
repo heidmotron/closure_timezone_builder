@@ -1,0 +1,9 @@
+{
+  "id": "America/Cayenne", 
+  "names": [
+    "GMT-3", 
+    "French Guiana Time"
+  ], 
+  "std_offset": -180, 
+  "transitions": []
+}

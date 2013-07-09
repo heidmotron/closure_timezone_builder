@@ -1,0 +1,9 @@
+{
+  "id": "Indian/Cocos", 
+  "names": [
+    "GMT+6:30", 
+    "Cocos Islands Time"
+  ], 
+  "std_offset": 390, 
+  "transitions": []
+}

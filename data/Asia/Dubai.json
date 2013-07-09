@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Dubai", 
+  "names": [
+    "GMT+4", 
+    "Gulf Standard Time"
+  ], 
+  "std_offset": 240, 
+  "transitions": []
+}

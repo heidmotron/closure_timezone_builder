@@ -1,0 +1,14 @@
+{
+  "id": "Africa/Ndjamena", 
+  "names": [
+    "GMT+1", 
+    "West Africa Standard Time"
+  ], 
+  "std_offset": 60, 
+  "transitions": [
+    85751, 
+    60, 
+    89254, 
+    0
+  ]
+}

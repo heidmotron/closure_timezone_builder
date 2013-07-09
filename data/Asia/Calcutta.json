@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Calcutta", 
+  "names": [
+    "GMT+5:30", 
+    "India Standard Time"
+  ], 
+  "std_offset": 330, 
+  "transitions": []
+}

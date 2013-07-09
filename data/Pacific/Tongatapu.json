@@ -1,0 +1,22 @@
+{
+  "id": "Pacific/Tongatapu", 
+  "names": [
+    "GMT+13", 
+    "Tonga Standard Time"
+  ], 
+  "std_offset": 780, 
+  "transitions": [
+    260893, 
+    60, 
+    264829, 
+    0, 
+    270373, 
+    60, 
+    272388, 
+    0, 
+    279109, 
+    60, 
+    281124, 
+    0
+  ]
+}

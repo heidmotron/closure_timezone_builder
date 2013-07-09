@@ -1,0 +1,9 @@
+{
+  "id": "America/Regina", 
+  "names": [
+    "CST", 
+    "Central Standard Time"
+  ], 
+  "std_offset": -360, 
+  "transitions": []
+}

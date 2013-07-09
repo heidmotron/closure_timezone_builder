@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Rangoon", 
+  "names": [
+    "GMT+6:30", 
+    "Myanmar Time"
+  ], 
+  "std_offset": 390, 
+  "transitions": []
+}

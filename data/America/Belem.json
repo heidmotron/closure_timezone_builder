@@ -1,0 +1,22 @@
+{
+  "id": "America/Belem", 
+  "names": [
+    "GMT-3", 
+    "Brasilia Standard Time"
+  ], 
+  "std_offset": -180, 
+  "transitions": [
+    138819, 
+    60, 
+    142010, 
+    0, 
+    147387, 
+    60, 
+    150074, 
+    0, 
+    156147, 
+    60, 
+    158666, 
+    0
+  ]
+}

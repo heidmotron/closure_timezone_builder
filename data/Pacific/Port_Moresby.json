@@ -1,0 +1,9 @@
+{
+  "id": "Pacific/Port_Moresby", 
+  "names": [
+    "GMT+10", 
+    "Papua New Guinea Time"
+  ], 
+  "std_offset": 600, 
+  "transitions": []
+}

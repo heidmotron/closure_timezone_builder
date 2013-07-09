@@ -1,0 +1,9 @@
+{
+  "id": "Pacific/Palau", 
+  "names": [
+    "GMT+9", 
+    "Palau Time"
+  ], 
+  "std_offset": 540, 
+  "transitions": []
+}

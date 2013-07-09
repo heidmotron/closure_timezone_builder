@@ -1,0 +1,12 @@
+{
+  "id": "Pacific/Pago_Pago", 
+  "names": [
+    "GMT-11", 
+    "Samoa Standard Time"
+  ], 
+  "std_offset": -660, 
+  "transitions": [
+    121955, 
+    0
+  ]
+}

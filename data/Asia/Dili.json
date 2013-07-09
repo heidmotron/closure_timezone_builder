@@ -1,0 +1,14 @@
+{
+  "id": "Asia/Dili", 
+  "names": [
+    "GMT+9", 
+    "East Timor Time"
+  ], 
+  "std_offset": 540, 
+  "transitions": [
+    55527, 
+    0, 
+    269200, 
+    0
+  ]
+}

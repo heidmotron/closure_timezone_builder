@@ -1,0 +1,12 @@
+{
+  "id": "Antarctica/Mawson", 
+  "names": [
+    "GMT+5", 
+    "Mawson Time"
+  ], 
+  "std_offset": 300, 
+  "transitions": [
+    348836, 
+    0
+  ]
+}

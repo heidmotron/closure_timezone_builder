@@ -1,0 +1,9 @@
+{
+  "id": "America/Aruba", 
+  "names": [
+    "AST", 
+    "Atlantic Standard Time"
+  ], 
+  "std_offset": -240, 
+  "transitions": []
+}

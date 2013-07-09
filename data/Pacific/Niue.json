@@ -1,0 +1,12 @@
+{
+  "id": "Pacific/Niue", 
+  "names": [
+    "GMT-11", 
+    "Niue Time"
+  ], 
+  "std_offset": -660, 
+  "transitions": [
+    76691, 
+    0
+  ]
+}

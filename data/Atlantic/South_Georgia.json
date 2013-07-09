@@ -1,0 +1,9 @@
+{
+  "id": "Atlantic/South_Georgia", 
+  "names": [
+    "GMT-2", 
+    "South Georgia Time"
+  ], 
+  "std_offset": -120, 
+  "transitions": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "Pacific/Marquesas", 
+  "names": [
+    "GMT-9:30", 
+    "Marquesas Time"
+  ], 
+  "std_offset": -570, 
+  "transitions": []
+}

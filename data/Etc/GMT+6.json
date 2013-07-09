@@ -1,0 +1,9 @@
+{
+  "id": "Etc/GMT+6", 
+  "names": [
+    "GMT-6", 
+    "GMT-06:00"
+  ], 
+  "std_offset": -360, 
+  "transitions": []
+}

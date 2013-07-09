@@ -1,0 +1,9 @@
+{
+  "id": "America/Port_of_Spain", 
+  "names": [
+    "AST", 
+    "Atlantic Standard Time"
+  ], 
+  "std_offset": -240, 
+  "transitions": []
+}

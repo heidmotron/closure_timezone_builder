@@ -1,0 +1,24 @@
+{
+  "id": "America/Porto_Acre", 
+  "names": [
+    "GMT-4", 
+    "Amazon Standard Time"
+  ], 
+  "std_offset": -240, 
+  "transitions": [
+    138821, 
+    60, 
+    142012, 
+    0, 
+    147389, 
+    60, 
+    150076, 
+    0, 
+    156149, 
+    60, 
+    158668, 
+    0, 
+    337301, 
+    0
+  ]
+}

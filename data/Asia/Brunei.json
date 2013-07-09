@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Brunei", 
+  "names": [
+    "GMT+8", 
+    "Brunei Darussalam Time"
+  ], 
+  "std_offset": 480, 
+  "transitions": []
+}

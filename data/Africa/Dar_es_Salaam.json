@@ -1,0 +1,9 @@
+{
+  "id": "Africa/Dar_es_Salaam", 
+  "names": [
+    "GMT+3", 
+    "East Africa Time"
+  ], 
+  "std_offset": 180, 
+  "transitions": []
+}

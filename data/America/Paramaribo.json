@@ -1,0 +1,14 @@
+{
+  "id": "America/Paramaribo", 
+  "names": [
+    "GMT-3", 
+    "GMT-03:00"
+  ], 
+  "std_offset": -180, 
+  "transitions": [
+    51579, 
+    0, 
+    129291, 
+    0
+  ]
+}

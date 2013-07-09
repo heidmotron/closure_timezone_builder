@@ -1,0 +1,9 @@
+{
+  "id": "Asia/Kabul", 
+  "names": [
+    "GMT+4:30", 
+    "Afghanistan Time"
+  ], 
+  "std_offset": 270, 
+  "transitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "America/Hermosillo", 
+  "names": [
+    "MST", 
+    "Mountain Standard Time"
+  ], 
+  "std_offset": -420, 
+  "transitions": [
+    8, 
+    0, 
+    230241, 
+    60, 
+    235112, 
+    0, 
+    238977, 
+    60, 
+    243848, 
+    0, 
+    247713, 
+    60, 
+    252584, 
+    0
+  ]
+}

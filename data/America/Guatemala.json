@@ -1,0 +1,26 @@
+{
+  "id": "America/Guatemala", 
+  "names": [
+    "CST", 
+    "Central Standard Time"
+  ], 
+  "std_offset": -360, 
+  "transitions": [
+    34182, 
+    60, 
+    36365, 
+    0, 
+    117318, 
+    60, 
+    120293, 
+    0, 
+    186030, 
+    60, 
+    190061, 
+    0, 
+    318438, 
+    60, 
+    322133, 
+    0
+  ]
+}

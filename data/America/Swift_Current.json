@@ -1,0 +1,12 @@
+{
+  "id": "America/Swift_Current", 
+  "names": [
+    "CST", 
+    "Central Standard Time"
+  ], 
+  "std_offset": -360, 
+  "transitions": [
+    20409, 
+    0
+  ]
+}

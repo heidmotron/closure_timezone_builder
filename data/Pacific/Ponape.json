@@ -1,0 +1,9 @@
+{
+  "id": "Pacific/Ponape", 
+  "names": [
+    "GMT+11", 
+    "Ponape Time"
+  ], 
+  "std_offset": 660, 
+  "transitions": []
+}

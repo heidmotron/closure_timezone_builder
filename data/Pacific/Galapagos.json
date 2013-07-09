@@ -1,0 +1,12 @@
+{
+  "id": "Pacific/Galapagos", 
+  "names": [
+    "GMT-6", 
+    "Galapagos Time"
+  ], 
+  "std_offset": -360, 
+  "transitions": [
+    140261, 
+    0
+  ]
+}

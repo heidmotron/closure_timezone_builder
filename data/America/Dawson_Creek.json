@@ -1,0 +1,22 @@
+{
+  "id": "America/Dawson_Creek", 
+  "names": [
+    "MST", 
+    "Mountain Standard Time"
+  ], 
+  "std_offset": -420, 
+  "transitions": [
+    2770, 
+    60, 
+    7137, 
+    0, 
+    11506, 
+    60, 
+    16041, 
+    0, 
+    20410, 
+    60, 
+    23337, 
+    0
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Asia/Kuala_Lumpur", 
+  "names": [
+    "GMT+8", 
+    "Malaysia Time"
+  ], 
+  "std_offset": 480, 
+  "transitions": [
+    105184, 
+    0
+  ]
+}

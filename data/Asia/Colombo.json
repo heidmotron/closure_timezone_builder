@@ -1,0 +1,16 @@
+{
+  "id": "Asia/Colombo", 
+  "names": [
+    "GMT+5:30", 
+    "India Standard Time"
+  ], 
+  "std_offset": 330, 
+  "transitions": [
+    231378, 
+    0, 
+    235074, 
+    0, 
+    318066, 
+    0
+  ]
+}

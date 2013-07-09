@@ -1,0 +1,12 @@
+{
+  "id": "Pacific/Guam", 
+  "names": [
+    "GMT+10", 
+    "Chamorro Standard Time"
+  ], 
+  "std_offset": 600, 
+  "transitions": [
+    271526, 
+    0
+  ]
+}

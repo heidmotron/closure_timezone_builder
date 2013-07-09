@@ -1,0 +1,12 @@
+{
+  "id": "Asia/Bahrain", 
+  "names": [
+    "GMT+3", 
+    "Arabian Standard Time"
+  ], 
+  "std_offset": 180, 
+  "transitions": [
+    21164, 
+    0
+  ]
+}

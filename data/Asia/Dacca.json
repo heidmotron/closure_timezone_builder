@@ -1,0 +1,16 @@
+{
+  "id": "Asia/Dacca", 
+  "names": [
+    "GMT+6", 
+    "Bangladesh Standard Time"
+  ], 
+  "std_offset": 360, 
+  "transitions": [
+    10770, 
+    0, 
+    345953, 
+    60, 
+    350632, 
+    0
+  ]
+}

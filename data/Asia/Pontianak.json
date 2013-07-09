@@ -1,0 +1,12 @@
+{
+  "id": "Asia/Pontianak", 
+  "names": [
+    "GMT+7", 
+    "Western Indonesia Time"
+  ], 
+  "std_offset": 420, 
+  "transitions": [
+    157768, 
+    0
+  ]
+}

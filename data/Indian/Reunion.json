@@ -1,0 +1,9 @@
+{
+  "id": "Indian/Reunion", 
+  "names": [
+    "GMT+4", 
+    "Reunion Time"
+  ], 
+  "std_offset": 240, 
+  "transitions": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "HST", 
+  "names": [
+    "GMT-10", 
+    "GMT-10:00"
+  ], 
+  "std_offset": -600, 
+  "transitions": []
+}

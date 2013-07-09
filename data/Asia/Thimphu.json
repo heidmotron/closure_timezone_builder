@@ -1,0 +1,12 @@
+{
+  "id": "Asia/Thimphu", 
+  "names": [
+    "GMT+6", 
+    "Bhutan Time"
+  ], 
+  "std_offset": 360, 
+  "transitions": [
+    155562, 
+    0
+  ]
+}
