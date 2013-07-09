@@ -1,9 +1,1 @@
-{
-  "id": "Antarctica/Vostok", 
-  "names": [
-    "GMT+6", 
-    "Vostok Time"
-  ], 
-  "std_offset": 360, 
-  "transitions": []
-}
+{"id":"Antarctica/Vostok","names":["GMT+6","Vostok Time"],"std_offset":360,"transitions":[]}

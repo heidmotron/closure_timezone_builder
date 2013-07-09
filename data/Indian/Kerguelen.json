@@ -1,9 +1,1 @@
-{
-  "id": "Indian/Kerguelen", 
-  "names": [
-    "GMT+5", 
-    "French Southern and Antarctic Time"
-  ], 
-  "std_offset": 300, 
-  "transitions": []
-}
+{"id":"Indian/Kerguelen","names":["GMT+5","French Southern and Antarctic Time"],"std_offset":300,"transitions":[]}

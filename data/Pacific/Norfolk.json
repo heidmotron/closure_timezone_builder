@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Norfolk", 
-  "names": [
-    "GMT+11:30", 
-    "Norfolk Island Time"
-  ], 
-  "std_offset": 690, 
-  "transitions": []
-}
+{"id":"Pacific/Norfolk","names":["GMT+11:30","Norfolk Island Time"],"std_offset":690,"transitions":[]}

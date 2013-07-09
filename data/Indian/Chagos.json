@@ -1,12 +1,1 @@
-{
-  "id": "Indian/Chagos", 
-  "names": [
-    "GMT+6", 
-    "Indian Ocean Time"
-  ], 
-  "std_offset": 360, 
-  "transitions": [
-    227899, 
-    0
-  ]
-}
+{"id":"Indian/Chagos","names":["GMT+6","Indian Ocean Time"],"std_offset":360,"transitions":[227899,0]}

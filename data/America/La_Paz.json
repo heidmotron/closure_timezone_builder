@@ -1,9 +1,1 @@
-{
-  "id": "America/La_Paz", 
-  "names": [
-    "GMT-4", 
-    "Bolivia Time"
-  ], 
-  "std_offset": -240, 
-  "transitions": []
-}
+{"id":"America/La_Paz","names":["GMT-4","Bolivia Time"],"std_offset":-240,"transitions":[]}

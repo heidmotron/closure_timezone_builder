@@ -1,12 +1,1 @@
-{
-  "id": "Pacific/Saipan", 
-  "names": [
-    "GMT+10", 
-    "Chamorro Standard Time"
-  ], 
-  "std_offset": 600, 
-  "transitions": [
-    271526, 
-    0
-  ]
-}
+{"id":"Pacific/Saipan","names":["GMT+10","Chamorro Standard Time"],"std_offset":600,"transitions":[271526,0]}

@@ -1,9 +1,1 @@
-{
-  "id": "MST", 
-  "names": [
-    "GMT-7", 
-    "GMT-07:00"
-  ], 
-  "std_offset": -420, 
-  "transitions": []
-}
+{"id":"MST","names":["GMT-7","GMT-07:00"],"std_offset":-420,"transitions":[]}

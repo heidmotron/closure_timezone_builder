@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Wallis", 
-  "names": [
-    "GMT+12", 
-    "Wallis and Futuna Time"
-  ], 
-  "std_offset": 720, 
-  "transitions": []
-}
+{"id":"Pacific/Wallis","names":["GMT+12","Wallis and Futuna Time"],"std_offset":720,"transitions":[]}

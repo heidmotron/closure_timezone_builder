@@ -1,9 +1,1 @@
-{
-  "id": "Africa/Djibouti", 
-  "names": [
-    "GMT+3", 
-    "East Africa Time"
-  ], 
-  "std_offset": 180, 
-  "transitions": []
-}
+{"id":"Africa/Djibouti","names":["GMT+3","East Africa Time"],"std_offset":180,"transitions":[]}

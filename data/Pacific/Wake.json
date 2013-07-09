@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Wake", 
-  "names": [
-    "GMT+12", 
-    "Wake Island Time"
-  ], 
-  "std_offset": 720, 
-  "transitions": []
-}
+{"id":"Pacific/Wake","names":["GMT+12","Wake Island Time"],"std_offset":720,"transitions":[]}

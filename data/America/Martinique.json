@@ -1,14 +1,1 @@
-{
-  "id": "America/Martinique", 
-  "names": [
-    "AST", 
-    "Atlantic Standard Time"
-  ], 
-  "std_offset": -240, 
-  "transitions": [
-    89956, 
-    60, 
-    94155, 
-    0
-  ]
-}
+{"id":"America/Martinique","names":["AST","Atlantic Standard Time"],"std_offset":-240,"transitions":[89956,60,94155,0]}

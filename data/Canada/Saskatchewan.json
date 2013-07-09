@@ -1,9 +1,1 @@
-{
-  "id": "Canada/Saskatchewan", 
-  "names": [
-    "CST", 
-    "Central Standard Time"
-  ], 
-  "std_offset": -360, 
-  "transitions": []
-}
+{"id":"Canada/Saskatchewan","names":["CST","Central Standard Time"],"std_offset":-360,"transitions":[]}

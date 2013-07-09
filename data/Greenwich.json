@@ -1,9 +1,1 @@
-{
-  "id": "Greenwich", 
-  "names": [
-    "GMT", 
-    "GMT"
-  ], 
-  "std_offset": 0, 
-  "transitions": []
-}
+{"id":"Greenwich","names":["GMT","GMT"],"std_offset":0,"transitions":[]}

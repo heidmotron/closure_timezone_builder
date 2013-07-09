@@ -1,9 +1,1 @@
-{
-  "id": "Atlantic/St_Helena", 
-  "names": [
-    "GMT", 
-    "Greenwich Mean Time"
-  ], 
-  "std_offset": 0, 
-  "transitions": []
-}
+{"id":"Atlantic/St_Helena","names":["GMT","Greenwich Mean Time"],"std_offset":0,"transitions":[]}

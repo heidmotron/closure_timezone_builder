@@ -1,9 +1,1 @@
-{
-  "id": "Africa/Lubumbashi", 
-  "names": [
-    "GMT+2", 
-    "Central Africa Time"
-  ], 
-  "std_offset": 120, 
-  "transitions": []
-}
+{"id":"Africa/Lubumbashi","names":["GMT+2","Central Africa Time"],"std_offset":120,"transitions":[]}

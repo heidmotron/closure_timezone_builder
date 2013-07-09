@@ -1,9 +1,1 @@
-{
-  "id": "Etc/GMT+11", 
-  "names": [
-    "GMT-11", 
-    "GMT-11:00"
-  ], 
-  "std_offset": -660, 
-  "transitions": []
-}
+{"id":"Etc/GMT+11","names":["GMT-11","GMT-11:00"],"std_offset":-660,"transitions":[]}

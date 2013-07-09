@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Gambier", 
-  "names": [
-    "GMT-9", 
-    "Gambier Time"
-  ], 
-  "std_offset": -540, 
-  "transitions": []
-}
+{"id":"Pacific/Gambier","names":["GMT-9","Gambier Time"],"std_offset":-540,"transitions":[]}

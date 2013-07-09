@@ -1,9 +1,1 @@
-{
-  "id": "Africa/Douala", 
-  "names": [
-    "GMT+1", 
-    "West Africa Standard Time"
-  ], 
-  "std_offset": 60, 
-  "transitions": []
-}
+{"id":"Africa/Douala","names":["GMT+1","West Africa Standard Time"],"std_offset":60,"transitions":[]}

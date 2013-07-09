@@ -1,9 +1,1 @@
-{
-  "id": "Iceland", 
-  "names": [
-    "GMT", 
-    "Greenwich Mean Time"
-  ], 
-  "std_offset": 0, 
-  "transitions": []
-}
+{"id":"Iceland","names":["GMT","Greenwich Mean Time"],"std_offset":0,"transitions":[]}

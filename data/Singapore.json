@@ -1,12 +1,1 @@
-{
-  "id": "Singapore", 
-  "names": [
-    "GMT+8", 
-    "Singapore Standard Time"
-  ], 
-  "std_offset": 480, 
-  "transitions": [
-    105184, 
-    0
-  ]
-}
+{"id":"Singapore","names":["GMT+8","Singapore Standard Time"],"std_offset":480,"transitions":[105184,0]}

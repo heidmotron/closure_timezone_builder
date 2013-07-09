@@ -1,12 +1,1 @@
-{
-  "id": "Africa/El_Aaiun", 
-  "names": [
-    "GMT", 
-    "Western European Standard Time"
-  ], 
-  "std_offset": 0, 
-  "transitions": [
-    55081, 
-    0
-  ]
-}
+{"id":"Africa/El_Aaiun","names":["GMT","Western European Standard Time"],"std_offset":0,"transitions":[55081,0]}

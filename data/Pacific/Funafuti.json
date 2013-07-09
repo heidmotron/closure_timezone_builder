@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Funafuti", 
-  "names": [
-    "GMT+12", 
-    "Tuvalu Time"
-  ], 
-  "std_offset": 720, 
-  "transitions": []
-}
+{"id":"Pacific/Funafuti","names":["GMT+12","Tuvalu Time"],"std_offset":720,"transitions":[]}

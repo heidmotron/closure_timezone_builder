@@ -1,9 +1,1 @@
-{
-  "id": "Asia/Kolkata", 
-  "names": [
-    "GMT+5:30", 
-    "India Standard Time"
-  ], 
-  "std_offset": 330, 
-  "transitions": []
-}
+{"id":"Asia/Kolkata","names":["GMT+5:30","India Standard Time"],"std_offset":330,"transitions":[]}

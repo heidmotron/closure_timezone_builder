@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Guadalcanal", 
-  "names": [
-    "GMT+11", 
-    "Solomon Islands Time"
-  ], 
-  "std_offset": 660, 
-  "transitions": []
-}
+{"id":"Pacific/Guadalcanal","names":["GMT+11","Solomon Islands Time"],"std_offset":660,"transitions":[]}

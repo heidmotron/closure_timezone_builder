@@ -1,9 +1,1 @@
-{
-  "id": "America/St_Lucia", 
-  "names": [
-    "AST", 
-    "Atlantic Standard Time"
-  ], 
-  "std_offset": -240, 
-  "transitions": []
-}
+{"id":"America/St_Lucia","names":["AST","Atlantic Standard Time"],"std_offset":-240,"transitions":[]}

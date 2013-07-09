@@ -1,12 +1,1 @@
-{
-  "id": "America/Caracas", 
-  "names": [
-    "GMT-4:30", 
-    "Venezuela Time"
-  ], 
-  "std_offset": -270, 
-  "transitions": [
-    332551, 
-    0
-  ]
-}
+{"id":"America/Caracas","names":["GMT-4:30","Venezuela Time"],"std_offset":-270,"transitions":[332551,0]}

@@ -1,9 +1,1 @@
-{
-  "id": "America/Guadeloupe", 
-  "names": [
-    "AST", 
-    "Atlantic Standard Time"
-  ], 
-  "std_offset": -240, 
-  "transitions": []
-}
+{"id":"America/Guadeloupe","names":["AST","Atlantic Standard Time"],"std_offset":-240,"transitions":[]}

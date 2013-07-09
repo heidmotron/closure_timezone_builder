@@ -1,9 +1,1 @@
-{
-  "id": "America/Anguilla", 
-  "names": [
-    "AST", 
-    "Atlantic Standard Time"
-  ], 
-  "std_offset": -240, 
-  "transitions": []
-}
+{"id":"America/Anguilla","names":["AST","Atlantic Standard Time"],"std_offset":-240,"transitions":[]}

@@ -1,9 +1,1 @@
-{
-  "id": "US/Hawaii", 
-  "names": [
-    "HST", 
-    "Hawaii-Aleutian Standard Time"
-  ], 
-  "std_offset": -600, 
-  "transitions": []
-}
+{"id":"US/Hawaii","names":["HST","Hawaii-Aleutian Standard Time"],"std_offset":-600,"transitions":[]}

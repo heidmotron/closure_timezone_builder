@@ -1,9 +1,1 @@
-{
-  "id": "America/Panama", 
-  "names": [
-    "EST", 
-    "Eastern Standard Time"
-  ], 
-  "std_offset": -300, 
-  "transitions": []
-}
+{"id":"America/Panama","names":["EST","Eastern Standard Time"],"std_offset":-300,"transitions":[]}

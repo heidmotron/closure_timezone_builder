@@ -1,12 +1,1 @@
-{
-  "id": "Kwajalein", 
-  "names": [
-    "GMT+12", 
-    "Marshall Islands Time"
-  ], 
-  "std_offset": 720, 
-  "transitions": [
-    207180, 
-    0
-  ]
-}
+{"id":"Kwajalein","names":["GMT+12","Marshall Islands Time"],"std_offset":720,"transitions":[207180,0]}

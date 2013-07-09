@@ -1,14 +1,1 @@
-{
-  "id": "Asia/Manila", 
-  "names": [
-    "GMT+8", 
-    "Philippine Standard Time"
-  ], 
-  "std_offset": 480, 
-  "transitions": [
-    72040, 
-    60, 
-    76431, 
-    0
-  ]
-}
+{"id":"Asia/Manila","names":["GMT+8","Philippine Standard Time"],"std_offset":480,"transitions":[72040,60,76431,0]}

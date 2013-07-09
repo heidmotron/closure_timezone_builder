@@ -1,9 +1,1 @@
-{
-  "id": "Indian/Mahe", 
-  "names": [
-    "GMT+4", 
-    "Seychelles Time"
-  ], 
-  "std_offset": 240, 
-  "transitions": []
-}
+{"id":"Indian/Mahe","names":["GMT+4","Seychelles Time"],"std_offset":240,"transitions":[]}

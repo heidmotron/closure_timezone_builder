@@ -1,9 +1,1 @@
-{
-  "id": "Etc/GMT-1", 
-  "names": [
-    "GMT+1", 
-    "GMT+01:00"
-  ], 
-  "std_offset": 60, 
-  "transitions": []
-}
+{"id":"Etc/GMT-1","names":["GMT+1","GMT+01:00"],"std_offset":60,"transitions":[]}

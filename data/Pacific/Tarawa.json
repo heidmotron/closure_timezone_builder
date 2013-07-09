@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Tarawa", 
-  "names": [
-    "GMT+12", 
-    "Gilbert Islands Time"
-  ], 
-  "std_offset": 720, 
-  "transitions": []
-}
+{"id":"Pacific/Tarawa","names":["GMT+12","Gilbert Islands Time"],"std_offset":720,"transitions":[]}

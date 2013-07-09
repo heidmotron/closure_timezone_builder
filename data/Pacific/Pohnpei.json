@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Pohnpei", 
-  "names": [
-    "GMT+11", 
-    "Ponape Time"
-  ], 
-  "std_offset": 660, 
-  "transitions": []
-}
+{"id":"Pacific/Pohnpei","names":["GMT+11","Ponape Time"],"std_offset":660,"transitions":[]}

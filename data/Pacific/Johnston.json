@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Johnston", 
-  "names": [
-    "HAST", 
-    "Hawaii-Aleutian Standard Time"
-  ], 
-  "std_offset": -600, 
-  "transitions": []
-}
+{"id":"Pacific/Johnston","names":["HAST","Hawaii-Aleutian Standard Time"],"std_offset":-600,"transitions":[]}

@@ -1,9 +1,1 @@
-{
-  "id": "America/Curacao", 
-  "names": [
-    "AST", 
-    "Atlantic Standard Time"
-  ], 
-  "std_offset": -240, 
-  "transitions": []
-}
+{"id":"America/Curacao","names":["AST","Atlantic Standard Time"],"std_offset":-240,"transitions":[]}

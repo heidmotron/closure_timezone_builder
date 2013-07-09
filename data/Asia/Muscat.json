@@ -1,9 +1,1 @@
-{
-  "id": "Asia/Muscat", 
-  "names": [
-    "GMT+4", 
-    "Gulf Standard Time"
-  ], 
-  "std_offset": 240, 
-  "transitions": []
-}
+{"id":"Asia/Muscat","names":["GMT+4","Gulf Standard Time"],"std_offset":240,"transitions":[]}

@@ -1,18 +1,1 @@
-{
-  "id": "Antarctica/Davis", 
-  "names": [
-    "GMT+7", 
-    "Davis Time"
-  ], 
-  "std_offset": 420, 
-  "transitions": [
-    348835, 
-    0, 
-    352292, 
-    0, 
-    366595, 
-    0, 
-    369404, 
-    0
-  ]
-}
+{"id":"Antarctica/Davis","names":["GMT+7","Davis Time"],"std_offset":420,"transitions":[348835,0,352292,0,366595,0,369404,0]}

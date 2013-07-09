@@ -1,12 +1,1 @@
-{
-  "id": "Pacific/Nauru", 
-  "names": [
-    "GMT+12", 
-    "Nauru Time"
-  ], 
-  "std_offset": 720, 
-  "transitions": [
-    81756, 
-    0
-  ]
-}
+{"id":"Pacific/Nauru","names":["GMT+12","Nauru Time"],"std_offset":720,"transitions":[81756,0]}

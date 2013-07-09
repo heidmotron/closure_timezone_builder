@@ -1,9 +1,1 @@
-{
-  "id": "Pacific/Yap", 
-  "names": [
-    "GMT+10", 
-    "Chuuk Time"
-  ], 
-  "std_offset": 600, 
-  "transitions": []
-}
+{"id":"Pacific/Yap","names":["GMT+10","Chuuk Time"],"std_offset":600,"transitions":[]}

@@ -1,9 +1,1 @@
-{
-  "id": "Australia/Darwin", 
-  "names": [
-    "GMT+9:30", 
-    "Australian Central Standard Time"
-  ], 
-  "std_offset": 570, 
-  "transitions": []
-}
+{"id":"Australia/Darwin","names":["GMT+9:30","Australian Central Standard Time"],"std_offset":570,"transitions":[]}

@@ -1,9 +1,1 @@
-{
-  "id": "Indian/Maldives", 
-  "names": [
-    "GMT+5", 
-    "Maldives Time"
-  ], 
-  "std_offset": 300, 
-  "transitions": []
-}
+{"id":"Indian/Maldives","names":["GMT+5","Maldives Time"],"std_offset":300,"transitions":[]}

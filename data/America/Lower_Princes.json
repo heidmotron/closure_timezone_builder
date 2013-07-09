@@ -1,9 +1,1 @@
-{
-  "id": "America/Lower_Princes", 
-  "names": [
-    "AST", 
-    "Atlantic Standard Time"
-  ], 
-  "std_offset": -240, 
-  "transitions": []
-}
+{"id":"America/Lower_Princes","names":["AST","Atlantic Standard Time"],"std_offset":-240,"transitions":[]}

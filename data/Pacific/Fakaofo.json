@@ -1,12 +1,1 @@
-{
-  "id": "Pacific/Fakaofo", 
-  "names": [
-    "GMT+13", 
-    "Tokelau Time"
-  ], 
-  "std_offset": 780, 
-  "transitions": [
-    368123, 
-    0
-  ]
-}
+{"id":"Pacific/Fakaofo","names":["GMT+13","Tokelau Time"],"std_offset":780,"transitions":[368123,0]}

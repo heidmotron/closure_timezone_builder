@@ -1,9 +1,1 @@
-{
-  "id": "Asia/Pyongyang", 
-  "names": [
-    "GMT+9", 
-    "Korean Standard Time"
-  ], 
-  "std_offset": 540, 
-  "transitions": []
-}
+{"id":"Asia/Pyongyang","names":["GMT+9","Korean Standard Time"],"std_offset":540,"transitions":[]}

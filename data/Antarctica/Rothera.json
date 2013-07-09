@@ -1,12 +1,1 @@
-{
-  "id": "Antarctica/Rothera", 
-  "names": [
-    "GMT-3", 
-    "Rothera Time"
-  ], 
-  "std_offset": -180, 
-  "transitions": [
-    60624, 
-    0
-  ]
-}
+{"id":"Antarctica/Rothera","names":["GMT-3","Rothera Time"],"std_offset":-180,"transitions":[60624,0]}

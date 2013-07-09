@@ -1,14 +1,1 @@
-{
-  "id": "Pacific/Kiritimati", 
-  "names": [
-    "GMT+14", 
-    "Line Islands Time"
-  ], 
-  "std_offset": 840, 
-  "transitions": [
-    85450, 
-    0, 
-    219154, 
-    0
-  ]
-}
+{"id":"Pacific/Kiritimati","names":["GMT+14","Line Islands Time"],"std_offset":840,"transitions":[85450,0,219154,0]}

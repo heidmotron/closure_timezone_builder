@@ -1,12 +1,1 @@
-{
-  "id": "Pacific/Kosrae", 
-  "names": [
-    "GMT+11", 
-    "Kosrae Time"
-  ], 
-  "std_offset": 660, 
-  "transitions": [
-    254196, 
-    0
-  ]
-}
+{"id":"Pacific/Kosrae","names":["GMT+11","Kosrae Time"],"std_offset":660,"transitions":[254196,0]}

@@ -1,18 +1,1 @@
-{
-  "id": "America/Belize", 
-  "names": [
-    "CST", 
-    "Central Standard Time"
-  ], 
-  "std_offset": -360, 
-  "transitions": [
-    34422, 
-    60, 
-    36005, 
-    0, 
-    113622, 
-    60, 
-    114965, 
-    0
-  ]
-}
+{"id":"America/Belize","names":["CST","Central Standard Time"],"std_offset":-360,"transitions":[34422,60,36005,0,113622,60,114965,0]}

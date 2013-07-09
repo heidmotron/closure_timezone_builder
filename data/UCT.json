@@ -1,9 +1,1 @@
-{
-  "id": "UCT", 
-  "names": [
-    "GMT", 
-    "GMT"
-  ], 
-  "std_offset": 0, 
-  "transitions": []
-}
+{"id":"UCT","names":["GMT","GMT"],"std_offset":0,"transitions":[]}

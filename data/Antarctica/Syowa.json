@@ -1,9 +1,1 @@
-{
-  "id": "Antarctica/Syowa", 
-  "names": [
-    "GMT+3", 
-    "Syowa Time"
-  ], 
-  "std_offset": 180, 
-  "transitions": []
-}
+{"id":"Antarctica/Syowa","names":["GMT+3","Syowa Time"],"std_offset":180,"transitions":[]}

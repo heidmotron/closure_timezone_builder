@@ -1,18 +1,1 @@
-{
-  "id": "Indian/Mauritius", 
-  "names": [
-    "GMT+4", 
-    "Mauritius Standard Time"
-  ], 
-  "std_offset": 240, 
-  "transitions": [
-    111956, 
-    60, 
-    115843, 
-    0, 
-    340270, 
-    60, 
-    343965, 
-    0
-  ]
-}
+{"id":"Indian/Mauritius","names":["GMT+4","Mauritius Standard Time"],"std_offset":240,"transitions":[111956,60,115843,0,340270,60,343965,0]}

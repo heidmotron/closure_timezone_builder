@@ -1,12 +1,1 @@
-{
-  "id": "Asia/Katmandu", 
-  "names": [
-    "GMT+5:45", 
-    "Nepal Time"
-  ], 
-  "std_offset": 345, 
-  "transitions": [
-    140250, 
-    0
-  ]
-}
+{"id":"Asia/Katmandu","names":["GMT+5:45","Nepal Time"],"std_offset":345,"transitions":[140250,0]}

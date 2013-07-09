@@ -1,9 +1,1 @@
-{
-  "id": "America/Guayaquil", 
-  "names": [
-    "GMT-5", 
-    "Ecuador Time"
-  ], 
-  "std_offset": -300, 
-  "transitions": []
-}
+{"id":"America/Guayaquil","names":["GMT-5","Ecuador Time"],"std_offset":-300,"transitions":[]}

@@ -65,7 +65,7 @@ def main():
 			os.makedirs(dir_path)
 
 		with open(path, 'w+') as f:
-			json.dump(build_zone(zone), f, sort_keys=True, indent=2)
+			json.dump(build_zone(zone), f, sort_keys=True,  separators=(',', ':'))
 
 if __name__ == "__main__":
 	main()

@@ -1,9 +1,1 @@
-{
-  "id": "Africa/Kigali", 
-  "names": [
-    "GMT+2", 
-    "Central Africa Time"
-  ], 
-  "std_offset": 120, 
-  "transitions": []
-}
+{"id":"Africa/Kigali","names":["GMT+2","Central Africa Time"],"std_offset":120,"transitions":[]}

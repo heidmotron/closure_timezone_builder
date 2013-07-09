@@ -1,12 +1,1 @@
-{
-  "id": "Pacific/Pitcairn", 
-  "names": [
-    "GMT-8", 
-    "Pitcairn Time"
-  ], 
-  "std_offset": -480, 
-  "transitions": [
-    248240, 
-    0
-  ]
-}
+{"id":"Pacific/Pitcairn","names":["GMT-8","Pitcairn Time"],"std_offset":-480,"transitions":[248240,0]}
